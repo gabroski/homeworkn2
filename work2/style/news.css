@@ -1,0 +1,27 @@
+a {
+    margin-left: 25px;
+   margin-right: 25px;
+   color: blue;
+   font-size: 26px;
+   top: 142px;}
+
+h1{
+background-color: purple;
+width: 31px;
+height: 34px;
+color: white;
+font-size: 25px;
+}
+
+
+p{
+    color:darkcyan;
+    font-size: 15px;
+}
+div{display: inline-block;
+width: 779px;
+height: 200px;
+
+
+}
+.class1{margin-left: 15px;}
